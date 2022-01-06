@@ -1,5 +1,5 @@
 ---
-<img width="215" height="150" align="left" src="https://github.com/tianhaowuhz/tianhaowuhz.github.io/blob/gh-pages/images/vat_mart.gif"/>
+<img width="215" height="150" align="left" src="https://raw.githubusercontent.com/tianhaowuhz/tianhaowuhz.github.io/gh-pages/images/vat_mart.gif"/>
 **VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects**  
 Ruihai Wu\*, Yan Zhao\*, Kaichun Mo\*, Zizheng Guo, Yian Wang, **Tianhao Wu**, Qingnan Fan, Xuelin Chen, Leonidas J. Guibas, Hao Dong  
 Under Review: International Conference on Learning Representations (ICLR) 2022  
