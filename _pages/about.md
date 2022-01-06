@@ -14,8 +14,8 @@ I am currently a member in [Center on Frontiers of Computing Studies (CFCS)](htt
 
 Recent Publications
 ------
-1. Our paper ["VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects"](https://hyperplane-lab.github.io/vat-mart/) submit to ICLR (under review).
-1. Our paper ["RoboAssembly: Learning Generalizable Furniture Assembly Policy in a Novel Multi-robot Contact-rich Simulation Environment"](https://sites.google.com/view/roboticassembly) submit to ICRA (under reivew).
+1. Our paper ["VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects"](https://hyperplane-lab.github.io/vat-mart/) submit (under review).
+1. Our paper ["RoboAssembly: Learning Generalizable Furniture Assembly Policy in a Novel Multi-robot Contact-rich Simulation Environment"](https://sites.google.com/view/roboticassembly) ICRA (under reivew).
 
 <!-- Example: editing a markdown file for a talk -->
 <!-- ![Editing a markdown file for a talk](/images/editing-talk.png) -->
