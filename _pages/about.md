@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year CS PhD student at Peking University. My research interests include robot manipulation and computer vision.
+I am a third-year CS PhD student at Peking University. My research mainly focus on dexterous hand manipulation.
 
 I am currently a member in [Center on Frontiers of Computing Studies (CFCS)](http://cfcs.pku.edu.cn/english/index.htm), Peking University, supervised by [Prof. Hao Dong](https://zsdonghao.github.io/).
 
-Recent Publications
+News
 ------
-1. Our paper ["VAT-Mart: Learning Visual Action Trajectory Proposals for Manipulating 3D ARTiculated Objects"](https://hyperplane-lab.github.io/vat-mart/) submit (under review).
-1. Our paper ["RoboAssembly: Learning Generalizable Furniture Assembly Policy in a Novel Multi-robot Contact-rich Simulation Environment"](https://sites.google.com/view/roboticassembly) submit (under reivew).
+[2023/09] One paper get accepted to NeurIPS 2023.
 
 <!-- Example: editing a markdown file for a talk -->
 <!-- ![Editing a markdown file for a talk](/images/editing-talk.png) -->
 
+Representative publication
+------
+
+Collaborative publication
+------
