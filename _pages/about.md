@@ -14,13 +14,10 @@ I am currently a member in [Center on Frontiers of Computing Studies (CFCS)](htt
 
 News
 ------
-[2023/09] One paper get accepted to NeurIPS 2023.
+[2023/09] <mark style="background-color：colorName/hexOfColor">NEW</mark> One paper get accepted to NeurIPS 2023.
 
 <!-- Example: editing a markdown file for a talk -->
 <!-- ![Editing a markdown file for a talk](/images/editing-talk.png) -->
 
-Representative publication
-------
-
-Collaborative publication
+Publications
 ------
